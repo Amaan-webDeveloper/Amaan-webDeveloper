@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Amaan-webDeveloper
-- 👀 crafting well optimised web apps
-- 🌱 I’currently learning Reactjs
+- 👋 Hi, I’m Amaan Hussain
+- 🤗 I'm a M-E-R-N stack Developer
+- ✨ Working on my Mega Project to show my skills
+- 👀 Learnig to crafting well optimised sustainable webapps
+- 🌱 I’currently learning ReduxToolKit
 - 💞️ I’m looking to collaborate with people and solve their problems
-- 📫 email => amaanhussain.web@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 email => amaanhussain.web@gmail.com 
+- ⚡ What I Learned:[
+- tailwide css
+- basics of nodejs
+- react,react-router-dom,context-Api,axios
+- backend api,Data-Association
+- mongoosejs
+- express js
+- Passportjs 
+- ]
 
 <!---
 Amaan-webDeveloper/Amaan-webDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
